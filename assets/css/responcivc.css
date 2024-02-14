@@ -1,0 +1,44 @@
+@media only screen and (max-width: 991px) {
+    .img-center {
+        text-align: center;
+    }
+
+    .s3-head span::before {
+        width: 0px;
+    }
+
+    .s5-img{
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .join-box {
+        width: 100%;
+    }
+
+    .join-box-arrow {
+        display: none;
+    }
+    .s3-img{
+        width: 100%;
+    }
+    .s2-img{
+        width: 100%;
+    }
+    .s5-img{
+        width: 100%;
+    }
+    .banner-img{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .b4 {
+        font-size: 30px;
+    }
+    .b2{
+        font-size: 30px;
+    }
+}
